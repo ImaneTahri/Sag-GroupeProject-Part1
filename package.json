@@ -1,8 +1,9 @@
 {
-  "name": "finalassignment2",
+  "name": "teamsage_surveysite_creation",
   "version": "0.0.1",
   "private": true,
   "scripts": {
+    
     "start": "node ./server.js"
   },
   "dependencies": {
